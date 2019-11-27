@@ -1,0 +1,5 @@
+package autoitx4java;
+
+public class AutoItXWindow(){
+	
+}
